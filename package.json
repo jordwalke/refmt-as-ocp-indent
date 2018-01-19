@@ -1,0 +1,13 @@
+{
+  "name": "ocp-indent-as-refmt",
+  "version": "0.1.0",
+  "description": "Temporary workaround",
+  "author": "Jordan Walke <jordojw@gmail.com>",
+  "license": "MIT",
+  "esy": {
+    "install": [
+      "cp ocp-indent #{self.install / 'bin'}"
+    ],
+    "buildsInSource": "_build"
+  }
+}
