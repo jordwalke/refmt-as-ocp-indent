@@ -1,5 +1,5 @@
 {
-  "name": "ocp-indent-as-refmt",
+  "name": "refmt-as-ocp-indent",
   "version": "0.1.0",
   "description": "Temporary workaround",
   "author": "Jordan Walke <jordojw@gmail.com>",
